@@ -1,0 +1,14 @@
+C:\Users\netoz\Desktop\Projetos\C#\CSHARP-PROJETO-1\bin\Debug\net8.0\CSHARP-PROJETO-1.exe
+C:\Users\netoz\Desktop\Projetos\C#\CSHARP-PROJETO-1\bin\Debug\net8.0\CSHARP-PROJETO-1.deps.json
+C:\Users\netoz\Desktop\Projetos\C#\CSHARP-PROJETO-1\bin\Debug\net8.0\CSHARP-PROJETO-1.runtimeconfig.json
+C:\Users\netoz\Desktop\Projetos\C#\CSHARP-PROJETO-1\bin\Debug\net8.0\CSHARP-PROJETO-1.dll
+C:\Users\netoz\Desktop\Projetos\C#\CSHARP-PROJETO-1\bin\Debug\net8.0\CSHARP-PROJETO-1.pdb
+C:\Users\netoz\Desktop\Projetos\C#\CSHARP-PROJETO-1\obj\Debug\net8.0\CSHARP-PROJETO-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netoz\Desktop\Projetos\C#\CSHARP-PROJETO-1\obj\Debug\net8.0\CSHARP-PROJETO-1.AssemblyInfoInputs.cache
+C:\Users\netoz\Desktop\Projetos\C#\CSHARP-PROJETO-1\obj\Debug\net8.0\CSHARP-PROJETO-1.AssemblyInfo.cs
+C:\Users\netoz\Desktop\Projetos\C#\CSHARP-PROJETO-1\obj\Debug\net8.0\CSHARP-PROJETO-1.csproj.CoreCompileInputs.cache
+C:\Users\netoz\Desktop\Projetos\C#\CSHARP-PROJETO-1\obj\Debug\net8.0\CSHARP-PROJETO-1.dll
+C:\Users\netoz\Desktop\Projetos\C#\CSHARP-PROJETO-1\obj\Debug\net8.0\refint\CSHARP-PROJETO-1.dll
+C:\Users\netoz\Desktop\Projetos\C#\CSHARP-PROJETO-1\obj\Debug\net8.0\CSHARP-PROJETO-1.pdb
+C:\Users\netoz\Desktop\Projetos\C#\CSHARP-PROJETO-1\obj\Debug\net8.0\CSHARP-PROJETO-1.genruntimeconfig.cache
+C:\Users\netoz\Desktop\Projetos\C#\CSHARP-PROJETO-1\obj\Debug\net8.0\ref\CSHARP-PROJETO-1.dll
